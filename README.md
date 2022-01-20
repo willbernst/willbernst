@@ -1,4 +1,4 @@
-# Oi! Eu sou o William.
+# Welcome! Eu sou o William.
 ### 💻Atualmente trabalho como QA na UBISTART.
 ### 📚Meus estudos estão focados em ASP.NET
 
