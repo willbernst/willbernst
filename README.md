@@ -1,6 +1,28 @@
-# Welcome! Eu sou o William.
-### 💻Atualmente trabalho como QA na UBISTART.
-### 📚Meus estudos estão focados em ASP.NET
+# Welcome 💤
+
+## I'm William🧑‍💻
+
+:computer: Currently I work as a QA at Ubistart!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning .NET CORE
+
+## About me
+<div>
+  <a href = "mailto:william.dewes@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/willdewes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## Currently I use:
+ ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+
+<br>
 
 <div align="center">
   <a href="https://github.com/willbernst">
@@ -8,9 +30,3 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbernst&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-<br>
-
-<div align="center">
-  <a href = "mailto:william.dewes@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willdewes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
