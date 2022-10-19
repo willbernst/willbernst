@@ -2,7 +2,7 @@
 
 ## I'm William🧑‍💻
 
-:computer: Currently I work as a QA at Ubistart!
+:computer: Currently I work as a QA at 3035Tech!
 
 :house_with_garden: I’m from Brazil.
 
