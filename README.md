@@ -2,11 +2,9 @@
 
 ## I'm William🧑‍💻
 
-:computer: Currently I work as a QA at 3035Tech!
+:computer: Currently I work as a QA at Grupo Casas Bahia!
 
 :house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning about automated testing using Cypress
 
 ## Contact
 <div>
